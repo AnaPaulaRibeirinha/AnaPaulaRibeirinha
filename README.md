@@ -25,6 +25,7 @@
 
 <div align="center"> 
 
+<img alt="Imagem Estudando" height="250px" src="https://i.imgur.com/7Txtq05.jpeg">
 
 ### Main skills: 
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
