@@ -25,7 +25,6 @@
 
 <div align="center"> 
 
-  <img alt="Study Image" height="250px" src="https://imgur.com/yJ6eCof.png">
 
 ### Main skills: 
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
