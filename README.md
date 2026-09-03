@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=4991&pause=1000&color=1D1D76&center=true&vCenter=true&width=1000&lines=Hellooo!+My+name+is+Ana!;I'm+a+Back-End+Developer+from+Brasil!;Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AnaPaulaRibeirinha&show_icons=true&count_private=true&hide_border=true&title_color=1D1D76&icon_color=1D1D76&text_color=1D1D76&bg_color=0d1117" alt="AnaPaulaRibeirinha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPaulaRibeirinha&layout=compact&hide_border=true&title_color=C5C3C6&text_color=C5C3C6&bg_color=1D1D76" />
-</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnaPaulaRibeirinha&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -28,6 +24,7 @@
 <img alt="Imagem Estudando" height="250px" src="https://i.imgur.com/7Txtq05.jpeg">
 
 ### Main skills: 
+![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c%23&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
@@ -45,7 +42,7 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodejs&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c%23&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 
 ### Studying in this moment:
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
